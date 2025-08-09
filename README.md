@@ -1,5 +1,7 @@
 # Data-Sfera-Dashboard
 
+DashBoard .pbix - https://drive.google.com/drive/folders/1I0kh8lNdHvEsTHH3wqdm9x3zkkHWbLAX?usp=sharing
+
 Источники данных
 
 Wildberries API (БД):
